@@ -1,0 +1,282 @@
+/* soft reset do css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* se a tela tiver pelo menos 400px vai carregar estes estilos */
+  @media (min-width: 400px) {
+    body {
+      font-size: 14px;
+    }
+  }
+  
+  /* breakpoint */
+  @media (min-width: 600px) {
+    body {
+      background-attachment: fixed;
+      background-size: cover;
+      font-size: 18px;
+    }
+  }
+  
+  /* breakpoint */
+  @media (min-width: 1200px) {
+    body {
+      font-size: 20px;
+    }
+  }
+  
+  @media (min-width: 1200px) {
+    .container {
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 1200px;
+    }
+  }
+  
+  @media (min-width: 600px) {
+    .sobre .avatar {
+      float: right;
+    }
+  }
+  
+  @media (min-width: 560px) {
+    .portfolio .grid {
+      grid-template-columns: 240px 240px;
+    }
+  }
+  
+  @media (min-width: 880px) {
+    .portfolio .grid {
+      grid-template-columns: repeat(3, 260px);
+      align-content: center;
+      justify-content: center;
+      height: calc(100vh - 8em - 48px);
+    }
+  }
+  
+  @keyframes animacaoTitulo {
+    from {
+      transform: scale(0.2) translateY(50vh);
+      opacity: 0;
+    }
+    to {
+      transform: scale(1) translateY(0);
+      opacity: 1;
+    }
+  }
+  
+  a {
+    color: royalblue;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .avatar {
+    height: 300px;
+    width: 250px;
+  }
+  
+  body {
+    background-color: royalblue;
+    background-size: auto 100vh; 
+    font-family: 'Source Code Pro', monospace;
+    height: 100vh;
+    font-size: 12px;
+  }
+  
+  .contato,
+  .sobre,
+  .portfolio {
+    padding: 2em;
+    min-height: 40vh;
+  }
+  
+  .contato h2,
+  .sobre h2,
+  .portfolio h2 {
+    font-family: 'Press Start 2P', cursive;
+    color: whitesmoke;
+    margin-bottom: 1.5em;
+    font-size: 2em;
+  }
+  
+  .card {
+    position: relative;
+    transform-style: preserve-3d;
+    transition: transform 3s;
+  }
+  
+  .card-front, 
+  .card-back {
+    backface-visibility: hidden;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+  
+  .card-back {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, .7);
+    height: 180px;
+    width: 100%;
+    transform: rotateY(180deg);
+  }
+  
+  .card {
+    position: relative;
+    transform-style: preserve-3d;
+    transition: transform 3s;
+  }
+  
+  .card-front, 
+  .card-back {
+    backface-visibility: hidden;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+  
+  .card-back {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, .7);
+    height: 180px;
+    width: 100%;
+    transform: rotateY(180deg);
+  }
+  
+  .contato .icons {
+    text-align: center;
+  }
+  
+  .contato a {
+    color: whitesmoke;
+    font-size: 8em;
+    transition: text-shadow 1s;
+  }
+  
+  .contato a:active,
+  .contato a:hover  {
+    text-decoration: none;
+    text-shadow: 0px 0px 10px rgba(255,255,255,.5);
+  }
+  
+  header {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .flip-card {
+    height: 180px;
+    perspective: 1000px;
+  }
+  
+  .flip-card:hover .card {
+    transform: rotateY(180deg);
+  }
+  
+  .img-portfolio {
+    height: 180px;
+    width: 240px;
+    object-fit: cover;
+    object-position: left bottom;
+    transition: transform 500ms;
+  }
+  /* .img-portfolio:hover {
+    transform: scale(1.2) rotate(-2deg);
+  } */
+  
+  .menu {
+    background-color: white;
+    position: fixed;
+    width: 100vw;
+    top: 0;
+    z-index: 1;
+  }
+  
+  .menu a {
+    display: block;
+    padding: 10px 20px;
+    transition: background-color 1s, color 1s;
+  }
+  
+  .menu a:active,
+  .menu a:hover {
+    background-color: teal;
+    color: white;
+  }
+  
+  .menu li {
+    list-style: none; 
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+    font-size: 18px;
+  }
+  
+  .portfolio .grid {
+    display: grid;
+    gap: 2em;
+  }
+  
+  .site-subtitle, 
+  .site-title {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 3em;
+  }
+  
+  .site-title {
+    font-size: 6em;
+    font-family: 'Gloria Hallelujah', cursive;
+  }
+  
+  .site-subtitle {
+    font-style: normal;
+    font-family: 'Press Start 2P', cursive;
+    line-height: 2em;
+  }
+  
+  .sobre a {
+    color:whitesmoke;
+    text-decoration: underline;
+  }
+  
+  .sobre a:hover {
+    background-color: cyan;
+    text-decoration: none;
+    color: magenta;
+  }
+  
+  .sobre p {
+    color: white;
+    text-indent: 1.8em;
+    margin-bottom: 1.8em;
+    text-align: justify;
+    font-size: 18px;
+  }
+  
+  .titulo {
+    transform: scale(0.2) translateY(50vh);
+    opacity: 0;
+    animation: 1s ease 500ms animacaoTitulo forwards;
+  }
+  
+  .portfolio figure {
+    text-align: center;
+  }
