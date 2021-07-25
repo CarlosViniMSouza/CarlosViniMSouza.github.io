@@ -1,87 +1,82 @@
-<h2> Hello guys, my name is Carlos Vinicius Monteiro de Souza. </h2>
+# Currículo Profissional
 
-### Professional Resume (Curriculum Vitae) - 👨‍💻 Carlos Vinicius Monteiro de Souza
+## [👨‍💻 Carlos Vinícius Monteiro de Souza](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/README.md)
+#### [🔎 Endereço - Manaus - Amazonas](https://www.google.com/maps/place/R.+Epaminondas+Bara%C3%BAna,+32-10+-+Parque+10+de+Novembro,+Manaus+-+AM,+69054-714/@-3.0734622,-60.0067465,19z/data=!3m1!4b1!4m13!1m7!3m6!1s0x926c1a8c5a4e3fa9:0xdee7e50cb28e5a27!2sR.+Epaminondas+Bara%C3%BAna+-+Parque+Dez+de+Novembro,+Manaus+-+AM,+69055-010!3b1!8m2!3d-3.0737536!4d-60.0050479!3m4!1s0x926c1a8c5a4ca84b:0x56402a17937791bd!8m2!3d-3.0734673!4d-60.006201)
+#### [🔵 Contato via-Telegram](https://t.me/CarlosViniMSouza) [🟢 Contato via-Whatssap](https://api.whatsapp.com/send?phone=5592992680331) [ 🌐 Contato via-LinkedIn](https://www.linkedin.com/in/carlos-souza-technology/)
 
-------------------------------------------------------------------------------------------
 
-## 🎯 _Professional Goal_
-```Rmd
-Position in the Data Science and/or Software Development area:
-° Data Scientist Jr.
-° Python Jr Developer.
+## 🎯 _Objetivo Profissional_
+```R
+Cargo na área de Ciência de Dados e/ou Desenvolvimento de Software:
+° Cientista de Dados Jr.
+° Desenvolvedor Python Jr.
 ```
-------------------------------------------------------------------------------------------
 
-## 📚 _Education_
-```Rmd
-° Graduation in Software Engineering - In progress.
-    ° Federal Institute of Amazonas.
-    ° Conclusion(Forecast for closing): December/2024.
+## 📚 _Formação_
+```R
+° Graduação em Engenharia de Software - Em Andamento.
+    ° Instituto Federal do Amazonas.
+    ° Conclusão: Dezembro/2024.
 
-° Graduation in Electrical Engineering - Canceled.
-    ° State University of Amazonas.
-    ° Start: March/2019.
-    ° Canceled: November/2020.
+° Graduação em Enganharia Elétrica - Cancelado.
+    ° Universidade do Estado do Amazonas.
+    ° Início: Março/2019.
+    ° Cancelado: Novembro/2020.
 ```
-------------------------------------------------------------------------------------------
 
-## 🗺 _Languages_
-```Rmd
-English - Intermediate level.
-Spanish – Intermediate level.
-Italian – Basic level.
+## 🗺 _Idiomas_
+```R
+Inglês – nível Intermediário.
+Espanhol – nível Intermediário.
+Italiano – nível Básico.
 ```
-------------------------------------------------------------------------------------------
 
-## ⚒ _Experiences_
-### ° Organization of the Dance Festival during High School.
-### ° Participation in Mathematics Olympiads:
-```Rmd
-   1 – OBMEP;
-   2 – OAM;
-   3 – SESI Mathematics Olympiad;
-   4 – EST - Mathematics Olympiad – UEA;
+## ⚒ _Atividades Extracurricular_
+### ° Organização do Festival de Dança durante o Ensino Médio.
+### ° Participação em Olimpíadas de Matemática:
+```R
+	1 – OBMEP;
+	2 – OAM;
+	3 – Olimpíada de Matemática do SESI;
+	4 – Olimpíada de Matemática da EST – UEA;
 ```
-------------------------------------------------------------------------------------------
 
-### ° Participation in technical courses at [Samsung Ocean](http://www.oceanbrasil.com/):
-```Rmd
-   1 – Web Scraping with Python;
-   2 – Data Science: Laboratory with Pandas and Python;
-   3 – Deep Learning: Introduction with Keras and Python;
-   4 – Data Science Applied to the Public Sector;
-   5 – Use of Social Media Data for Urban Analysis;
+### ° Participação em cursos técnicos da [Samsung Ocean](http://www.oceanbrasil.com/):
+```R
+	1 – Web Scraping com Python;
+	2 – Ciência de Dados: Laboratório com Pandas e Python;
+	3 – Deep Learning: Introdução com Keras e Python;
+	4 – Ciência de Dados Aplicada ao Setor Público;
+	5 – Uso de dados de Mídia Social para Análise Urbana;
 ```
-------------------------------------------------------------------------------------------
 
-### ° Participation in Hackathons and Competitions, where I performed functions and activities such as:
-```Rmd
-   1 – IBM Behind The Code – 2020 Edition:
-	Self-employed developer with emphasis on:
-		1.1 – Recognition of images and textual entities with Artificial Intelligence;
-		1.2 – Development of web applications with Cloud Foundry.
-		1.3 – DevOps tools;
-		1.4 – Data Science;
+### ° Participação em Hackathons e Competições, onde exerci funções e atividades como:
+```R
+	1 – IBM Behind The Code – Edition 2020:
+	Desenvolvedor autônomo com ênfase em:
+		1.1 – Reconhecimento de imagens e entidades textuais com Inteligência Artificial;
+		1.2 – Desenvolvimento de aplicações Web com Cloud Foundry.
+		1.3 – ferramentas de DevOps;
+		1.4 – Ciência de Dados;
 		1.5 – Feature Engineering;
-		1.6 – Development and deployment of Machine Learning models with Jupyter
-		Notebook, Watson Machine Learning and SPSS Modeler (all are services provided in the IBM Cloud);
-		1.7 – Development of intelligent Virtual Assistants integrated with APIs and Microservices;
+		1.6 – Desenvolvimento e deployment de modelos de Aprendizado de Máquina com Jupyter 
+		Notebook, Watson Machine Learning e SPSS Modeler(todos são serviços disponibilizados na IBM Cloud);
+		1.7 – Desenvolvimento de Assistentes Virtuais inteligentes integrados com APIs e Microsserviços;
 ```
-```Rmd
-   2 – Hackathon Eugenio&Natura:
-	Back-End Developer, activity performed:
-	° Develop the Back-End of the application that, upon receiving some information from the user – which will be
-stored within an SQL Database - should streamline the purchase and recommendation process for
-products (based on the preferences of different people). Using Eugenio's APIs (for analysis
-data) and Google Maps (in the Geolocation part of the app).
+```R
+	2 – Hackathon Eugenio&Natura:
+	Desenvolvedor Back-End, atividade exercida:
+		### ° Desenvolver o Back-End da aplicação que, ao receber algumas informações do usuário – que serão 
+		guardadas dentro de um Banco de Dados SQL – deverá agilizar o processo de compra e recomendação de 
+		produtos (com base nas preferências de diversas pessoas). Utilizando de APIs da Eugenio(para análise 
+		de dados) e Google Maps(na parte de Geolocalização do aplicativo).
 ```
-```Rmd
-   3 – GetNet&SEBRAE Hackathon:
-	Back-End Developer, activity performed:
-	° Develop the Back-End&I.A. of the application that, upon receiving some information from the user - which will be
-stored inside a NoSQL Database – can provide support in: indication of credit lines
-(for the current situation of your microenterprise), direction for courses and specializations necessary for
-essential activity of the company, and also to provide for Banks and Support Institutions for Small and Medium
-Entrepreneur, relevant information about your customers and 'potential' customers.
+```R
+	3 – Hackathon GetNet&SEBRAE:
+	Desenvolvedor Back-End, atividade exercida:
+		### °  Desenvolver o Back-End&I.A. da aplicação que, ao receber algumas informações do usuário – que serão
+		guardadas dentro de um Banco de Dados NoSQL – poderá fornecer suporte em: indicação de linhas de crédito
+		(para a situação atual de sua microempresa), direcionamento para cursos e especializações necessárias á 
+		atividade essencial da empresa, e também, fornecer para Bancos e Instituições de Apoio ao Pequeno e Médio
+		Empreendedor, informações relevantes sobre seus clientes e ‘potenciais’ clientes.
 ```
-------------------------------------------------------------------------------------------
