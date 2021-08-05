@@ -23,3 +23,7 @@ declined, etc.
 ## Advices
 
 This template is open to suggestions for improvements, testing and publishing projects and collaborators. Make yourself comfortable.
+
+## IDEs Used
+
+VS Code and WebStorm - WebStorm in test level for the time being.
