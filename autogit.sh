@@ -1,4 +1,4 @@
 git add -A
-git commit -m "index.html -> add <meta og:image>"
+git commit -m "index.html -> add <meta og:description>"
 git push
 git status
