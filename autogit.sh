@@ -1,4 +1,4 @@
 git add -A
-git commit -m "README.md -> update | main.js -> add"
+git commit -m "index.html -> alts add"
 git push
 git status
