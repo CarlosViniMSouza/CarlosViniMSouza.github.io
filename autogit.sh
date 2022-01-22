@@ -1,4 +1,4 @@
 git add -A
-git commit -m "index.html -> add <meta og:description>"
+git commit -m "index.html -> translate for English"
 git push
 git status
