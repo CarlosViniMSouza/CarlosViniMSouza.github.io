@@ -4,7 +4,6 @@
     box-sizing: border-box;
   }
   
-  /* se a tela tiver pelo menos 400px vai carregar estes estilos */
   @media (min-width: 400px) {
     body {
       font-size: 14px;
@@ -36,7 +35,7 @@
   }
   
   @media (min-width: 600px) {
-    .sobre .avatar {
+    .about .avatar {
       float: right;
     }
   }
@@ -56,7 +55,7 @@
     }
   }
   
-  @keyframes animacaoTitulo {
+  @keyframes animationTitle {
     from {
       transform: scale(0.2) translateY(50vh);
       opacity: 0;
@@ -89,15 +88,15 @@
     font-size: 12px;
   }
   
-  .contato,
-  .sobre,
+  .contact,
+  .about,
   .portfolio {
     padding: 2em;
     min-height: 40vh;
   }
   
-  .contato h2,
-  .sobre h2,
+  .contact h2,
+  .about h2,
   .portfolio h2 {
     font-family: 'Press Start 2P', cursive;
     color: whitesmoke;
@@ -155,20 +154,20 @@
     transform: rotateY(180deg);
   }
   
-  .contato .icons {
+  .contact .icons {
     text-align: center;
   }
   
-  .contato a {
+  .contact a {
     color: whitesmoke;
     font-size: 8em;
     transition: text-shadow 1s;
   }
   
-  .contato a:active,
-  .contato a:hover  {
+  .contact a:active,
+  .contact a:hover  {
     text-decoration: none;
-    text-shadow: 0px 0px 10px rgba(255,255,255,.5);
+    text-shadow: 0 0 10px rgba(255,255,255,.5);
   }
   
   header {
@@ -194,9 +193,6 @@
     object-position: left bottom;
     transition: transform 500ms;
   }
-  /* .img-portfolio:hover {
-    transform: scale(1.2) rotate(-2deg);
-  } */
   
   .menu {
     background-color: white;
@@ -251,18 +247,18 @@
     line-height: 2em;
   }
   
-  .sobre a {
+  .about a {
     color:whitesmoke;
     text-decoration: underline;
   }
   
-  .sobre a:hover {
+  .about a:hover {
     background-color: cyan;
     text-decoration: none;
     color: magenta;
   }
   
-  .sobre p {
+  .about p {
     color: white;
     text-indent: 1.8em;
     margin-bottom: 1.8em;
@@ -270,7 +266,7 @@
     font-size: 18px;
   }
   
-  .titulo {
+  .title {
     transform: scale(0.2) translateY(50vh);
     opacity: 0;
     animation: 1s ease 500ms animacaoTitulo forwards;

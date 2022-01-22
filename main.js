@@ -1,1 +1,1 @@
-alert('Bem-Vindo ao meu site! 👋🤓')
+alert('Welcome to My WebSite! 👋🤓')
