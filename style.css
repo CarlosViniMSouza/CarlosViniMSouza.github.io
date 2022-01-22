@@ -55,7 +55,7 @@
     }
   }
   
-  @keyframes animationTitle {
+  @keyframes animacaoTitulo {
     from {
       transform: scale(0.2) translateY(50vh);
       opacity: 0;
@@ -81,7 +81,7 @@
   }
   
   body {
-    background-color: rgba(52, 12, 211, 0.7);
+    background-color: rgb(11, 63, 125);
     background-size: auto 100vh; 
     font-family: 'Source Code Pro', monospace;
     height: 100vh;
