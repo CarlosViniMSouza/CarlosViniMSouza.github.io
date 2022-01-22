@@ -87,17 +87,19 @@
     height: 100vh;
     font-size: 12px;
   }
-  
-  .contact,
+
   .about,
-  .portfolio {
+  .stack,
+  .portfolio,
+  .contact {
     padding: 2em;
     min-height: 40vh;
   }
-  
-  .contact h2,
+
   .about h2,
-  .portfolio h2 {
+  .stack h2,
+  .portfolio h2,
+  .contact h2 {
     font-family: 'Press Start 2P', cursive;
     color: whitesmoke;
     margin-bottom: 1.5em;
@@ -259,6 +261,25 @@
   }
   
   .about p {
+    color: white;
+    text-indent: 1.8em;
+    margin-bottom: 1.8em;
+    text-align: justify;
+    font-size: 18px;
+  }
+
+  .stack a {
+    color:whitesmoke;
+    text-decoration: underline;
+  }
+
+  .stack a:hover {
+    background-color: cyan;
+    text-decoration: none;
+    color: magenta;
+  }
+
+  .stack p {
     color: white;
     text-indent: 1.8em;
     margin-bottom: 1.8em;
