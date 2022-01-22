@@ -1,4 +1,4 @@
 git add -A
-git commit -m "Any contacts in index.html -> removed"
+git commit -m "index.html: errors -> removed"
 git push
 git status
