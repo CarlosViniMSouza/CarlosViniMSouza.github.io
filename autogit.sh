@@ -1,4 +1,4 @@
 git add -A
-git commit -m "index.html -> alts add | style.css -> alt add | Improving session: My Stack"
+git commit -m "My Stack -> Improved"
 git push
 git status
