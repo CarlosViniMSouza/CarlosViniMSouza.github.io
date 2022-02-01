@@ -1,4 +1,4 @@
 git add -A
-git commit -m "index.html: error in class=site-subtitle N°3 -> fixed"
+git commit -m "index.html: corrections applied | style.css -> background-color: alt for dark blue"
 git push
 git status
