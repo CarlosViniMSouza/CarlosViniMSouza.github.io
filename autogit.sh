@@ -1,4 +1,4 @@
 git add -A
-git commit -m "index.html: closing open tags"
+git commit -m "site -> rebuilding"
 git push
 git status
