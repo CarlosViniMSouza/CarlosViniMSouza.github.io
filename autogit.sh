@@ -1,5 +1,5 @@
 git pull
 git add -A
-git commit -m "Next step: links for Social Medias"
+git commit -m "links for Social Medias -> ok"
 git push
 git status
