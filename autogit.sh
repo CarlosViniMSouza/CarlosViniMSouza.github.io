@@ -1,5 +1,5 @@
 git pull
 git add -A
-git commit -m "version for mobile -> alts add"
+git commit -m "alts add on structure"
 git push
 git status
