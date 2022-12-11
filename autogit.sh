@@ -1,5 +1,5 @@
 git pull
 git add -A
-git commit -m "alts add on structure"
+git commit -m "Fastify replaced by NestJS | Comment improved"
 git push
 git status
